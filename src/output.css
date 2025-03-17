@@ -8,12 +8,7 @@
 </head>
 <body>
    <div>
-    <img class="aspect-1/2" src="../asset/image/cloud.avif" alt="image"> 
+    <img src="../asset/image/cloud.avif" alt="image">
    </div>
-   <!-- used to give specific aspect ratio of an element  -->
-   <!-- <div>
-    <img class="" src="../asset/image/cloud.avif" alt="image">
-   </div> -->
-
 </body>
 </html>
